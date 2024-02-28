@@ -1,0 +1,13 @@
+{
+    "require": {
+        "openai-php/client": "^0.8.4",
+        "symfony/http-client": "^7.0",
+        "nyholm/psr7": "^1.8",
+        "openai-php/laravel": "^0.8.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
